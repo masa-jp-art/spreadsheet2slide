@@ -5,7 +5,7 @@
 - AIアートグランプリの最終選考会で展示する作品制作のために作成しました
 - コード作成は、GeminiとClaude3.5Sonnet(new)の補助を受けています
 - README文はClaude3.5Sonnet(new)が生成したものを修正しています
-- 実際に使用したコードをApp.pyとして、Claude3.5Sonnet(new)がリファクタリングしたものをApp-rf.pyとしています
+- 実際に使用したコードをapp.pyとして、Claude3.5Sonnet(new)がリファクタリングしたものをapp-rf.pyとしています
 
 ## 主な機能
 - スプレッドシートからデータを読み込み
@@ -101,8 +101,13 @@ MITライセンス
 
 ## 実際に使用したもの
 
-- 
+- https://github.com/masa-jp-art/spreadsheet2slide/blob/main/app.py
 
 ## Claude3.5Sonnet(new)がリファクタリングしたもの
 
-- 
+- https://github.com/masa-jp-art/spreadsheet2slide/blob/main/app-rf.py
+
+# 関連
+
+- 第3回AIアートグランプリエントリー作品
+- https://github.com/masa-jp-art/100-times-ai-heroes
